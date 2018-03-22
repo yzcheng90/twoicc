@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc.iml" filepath="$PROJECT_DIR$/twoicc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/twoicc-common-web/twoicc-common-web.iml" filepath="$PROJECT_DIR$/common/twoicc-common-web/twoicc-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one-api/twoicc-one-api.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one-api/twoicc-one-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one-interface/twoicc-one-interface.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one-interface/twoicc-one-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one-model/twoicc-one-model.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one-model/twoicc-one-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one-service/twoicc-one-service.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one-service/twoicc-one-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoicc-one/twoicc-one-web/twoicc-one-web.iml" filepath="$PROJECT_DIR$/twoicc-one/twoicc-one-web/twoicc-one-web.iml" />
+    </modules>
+  </component>
+</project>

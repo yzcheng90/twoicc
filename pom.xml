@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.icc.czx</groupId>
+	<artifactId>twoicc</artifactId>
+	<version>1.0.0</version>
+	<packaging>pom</packaging>
+
+	<name>twoicc</name>
+	<description>twoicc project for Spring Boot Distributed</description>
+
+	<modules>
+		<module>common</module>
+		<module>twoicc-one</module>
+	</modules>
+
+	<properties>
+		<!-- 工程编码 -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<!-- jdk -->
+		<java.version>1.8</java.version>
+		<!-- spring相关 -->
+		<spring.version>4.3.12.RELEASE</spring.version>
+		<spring.session.data.redis.version>1.3.1.RELEASE</spring.session.data.redis.version>
+		<!-- springboot相关 -->
+		<spring.boot.version>1.5.8.RELEASE</spring.boot.version>
+		<spring.boot.starter.redis.version>1.4.7.RELEASE</spring.boot.starter.redis.version>
+		<springloaded.version>1.2.8.RELEASE</springloaded.version>
+		<hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
+		<!-- lombok插件 -->
+		<lombok.version>1.16.18</lombok.version>
+
+		<!-- 数据库相关 -->
+		<druid.version>1.1.5</druid.version>
+		<mysql.connector.java.version>6.0.5</mysql.connector.java.version>
+		<mybatis.spring.boot.version>1.3.1</mybatis.spring.boot.version>
+		<mybatis.plus.version>2.1.6</mybatis.plus.version>
+		<!-- dubbo -->
+		<dubbo.version>2.5.7</dubbo.version>
+		<zookeeper.version>3.4.11</zookeeper.version>
+		<zkclient.version>0.10</zkclient.version>
+		<!-- shiro -->
+		<shiro.spring.version>1.4.0</shiro.spring.version>
+		<shiro.aspectj.version>1.4.0</shiro.aspectj.version>
+		<!-- apache-commons -->
+		<commons.lang3.version>3.6</commons.lang3.version>
+		<!-- maven -->
+		<maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
+		<!-- fastjson -->
+		<fastjson.version>1.2.41</fastjson.version>
+		<!-- gsonjson -->
+		<gson.version>2.8.2</gson.version>
+		<!-- jackson -->
+		<jackson.version>2.9.2</jackson.version>
+		<!-- hutooljava工具类集合 -->
+		<hutool.version>3.2.3</hutool.version>
+		<!-- 接口文档 -->
+		<swagger2.spring.boot.starter.version>0.1.2</swagger2.spring.boot.starter.version>
+	</properties>
+
+</project>

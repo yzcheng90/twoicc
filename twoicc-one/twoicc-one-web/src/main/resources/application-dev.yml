@@ -1,0 +1,36 @@
+spring:
+  # 用到redis session的时候再打开
+  session:
+    store-type: none
+  redis:
+    database: 0
+    host: localhost
+    port: 6379
+    password:
+    timeout: 0
+    pool:
+      max-active: 8
+      max-wait: 1
+      max-idle: 8
+      min-idle: 0
+    lock:
+      waitTimeOut: 5
+      lockTimeOut: 30
+server:
+  port: 8089
+
+dubbo:
+  application:
+    name: twoicc-one-service-provider
+    owner: twoicc-one-service-provider
+  registry:
+    protocol: zookeeper
+    address: localhost:2181
+    #address: 192.168.0.108:2181
+  protocol:
+    name: dubbo
+    port: -1
+
+logging:
+  level:
+     root: info

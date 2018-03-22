@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/twoicc-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/twoicc-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/twoicc-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/twoicc-common-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one/twoicc-one-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one/twoicc-one-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one/twoicc-one-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one/twoicc-one-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-one/twoicc-one-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twoicc-web-api" charset="UTF-8" />
+  </component>
+</project>

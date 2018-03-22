@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="twoicc-common-web" />
+        <module name="twoicc-one-api" />
+        <module name="twoicc-one-interface" />
+        <module name="twoicc-one-model" />
+        <module name="twoicc-one-service" />
+        <module name="twoicc-one-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.5" />
+      <module name="twoicc" target="1.5" />
+      <module name="twoicc-common-base" target="1.5" />
+      <module name="twoicc-common-web" target="1.8" />
+      <module name="twoicc-one" target="1.5" />
+      <module name="twoicc-one-api" target="1.8" />
+      <module name="twoicc-one-interface" target="1.8" />
+      <module name="twoicc-one-model" target="1.8" />
+      <module name="twoicc-one-service" target="1.8" />
+      <module name="twoicc-one-web" target="1.8" />
+      <module name="twoicc-service" target="1.8" />
+      <module name="twoicc-two" target="1.8" />
+      <module name="twoicc-web" target="1.8" />
+      <module name="twoicc-web-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
